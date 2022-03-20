@@ -1,2 +1,1 @@
-# Print
-## Hello World
+# Example of README.md
